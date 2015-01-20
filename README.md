@@ -1,2 +1,1 @@
-# springmvc-springdatajpa
-Spring MVC + Spring Data JPA
+# Spring MVC + Spring Data JPA
